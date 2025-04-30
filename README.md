@@ -29,3 +29,9 @@ Pumpkaboo -> Gourgeist al nivel 37
 Pumpkaboo-M -> Gourgeist al nivel 37
 Pumpkaboo-L -> Gourgeist al nivel 37
 Pumpkaboo-XL -> Gourgeist al nivel 37
+
+Links de descarga:
+
+.XCI(se instala directo en el emulador):https://www.mediafire.com/file/meumiuv73j54cla/Pokemon+Alfa+Zafiro+EVOLUTION.cxi/file
+
+.CIA(se instala a través de FBI y otro CFW):https://www.mediafire.com/file/gsvry75bcxp297z/Pokemon+Zafiro+Alfa+EVOLUTION.cia/file
